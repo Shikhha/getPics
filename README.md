@@ -16,6 +16,11 @@ To run
 npm start
 ```
 
+## Built With
+
+- React.js
+- CSS Grid
+
 ## Author
 
 Shikha Jhamb - [Shikhha](https://github.com/Shikhha)
