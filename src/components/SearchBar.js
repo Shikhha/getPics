@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 
 /* React class component for accessing external API data */
 class SearchBar extends React.Component {
